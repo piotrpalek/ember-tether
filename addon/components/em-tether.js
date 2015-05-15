@@ -1,7 +1,6 @@
 /* global Tether */
 import Ember from 'ember';
-
-let run = Ember.run;
+const run = Ember.run;
 
 export default Ember.Component.extend({
   classNames: 'em-tether',
